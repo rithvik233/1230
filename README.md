@@ -7,9 +7,4 @@ c = 7
 # Uncomment below to take inputs from the user
 # a = float(input('Enter first side: '))
 
-# calculate the semi-perimeter
-s = (a + b + c) / 2
-
-# calculate the area
-area = (s*(s-a)*(s-b)*(s-c)) ** 0.5
-print('The area of the triangle is %0.2f' %area)
+#hsdh
